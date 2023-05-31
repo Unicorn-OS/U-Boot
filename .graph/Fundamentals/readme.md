@@ -2,3 +2,6 @@
 
 # Doc:
 - https://kernel.org/doc/html/latest/arm64/booting.html
+
+# video:
+- [Linux Booting - Bootloader, U-boot, QEMU, ARM Cross Compilation [SoftUni]](https://youtu.be/KLFws01RtbE)
