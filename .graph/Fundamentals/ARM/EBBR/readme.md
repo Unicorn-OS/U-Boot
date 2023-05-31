@@ -1,0 +1,1 @@
+- [EBBR: Standard Boot for Embedded Platforms - Grant Likely, Arm](https://youtu.be/Zz5wGjY9VpU)
