@@ -5,3 +5,6 @@
 
 # video:
 - [Linux Booting - Bootloader, U-boot, QEMU, ARM Cross Compilation [SoftUni]](https://youtu.be/KLFws01RtbE)
+
+# presentation:
+- https://bootlin.com/pub/conferences/2017/lca/petazzoni-arm-introduction/petazzoni-arm-introduction.pdf
