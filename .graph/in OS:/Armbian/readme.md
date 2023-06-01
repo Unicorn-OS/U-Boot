@@ -1,1 +1,1 @@
-repo: https://www.armbian.com/kernel/
+Package repository: https://www.armbian.com/kernel/
